@@ -3,3 +3,12 @@
 
 IDEA+springboot 热部署 ：https://blog.csdn.net/dujianxiong/article/details/78957701  
 springboot 文件上传 ：↑↑↑↑
+
+#### git使用
+生成SSH ：$ ssh-keygen -t rsa -C "邮箱地址"  
+验证SSH ：$ ssh -T git@github.com  
+配置用户名 ：git config --global user.name "用户名"  
+配置邮箱 ：git config --global user.email "邮箱"  
+
+
+
