@@ -10,5 +10,8 @@ springboot 文件上传 ：↑↑↑↑
 配置用户名 ：git config --global user.name "用户名"  
 配置邮箱 ：git config --global user.email "邮箱"  
 
+$ git init -> $ git add . -> $git commit -m "备注" ->
+先pull : $ git pull origin master  
+后push ： $ git pull origin master (第一次push：$ git pull -u origin master)
 
 
