@@ -8,5 +8,8 @@ springboot 文件上传 ：↑↑↑↑
 创建并上传 ： https://www.cnblogs.com/plinx/archive/2013/04/08/3009159.html  
 修改 ： https://www.cnblogs.com/1540340840qls/p/6704440.html
 
+### ubuntu
+WIN10、Ubuntu双系统后彻底删除Ubuntu教程 ： http://tieba.baidu.com/p/4485862313  
+
 
 
