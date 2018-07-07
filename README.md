@@ -12,6 +12,9 @@ springboot 文件上传 ：↑↑↑↑
 
 ### ubuntu
 WIN10、Ubuntu双系统后彻底删除Ubuntu教程 ： http://tieba.baidu.com/p/4485862313  
-
+  
+## Golang
+%v -> 不做转译
+%s -> string
 
 
