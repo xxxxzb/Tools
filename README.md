@@ -14,6 +14,8 @@ springboot 文件上传 ：↑↑↑↑
 WIN10、Ubuntu双系统后彻底删除Ubuntu教程 ： http://tieba.baidu.com/p/4485862313  
   
 ## Golang
-%v -> 不做转译   %s -> string
+%v -> 不做转译  
+%s -> string  
+%d-> 十进制整数
 
 
