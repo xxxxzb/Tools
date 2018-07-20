@@ -12,7 +12,7 @@ springboot 文件上传 ：↑↑↑↑
 
 ### manjaro:
 配置基本使用环境https://www.aliyun.com/jiaocheng/132741.html?spm=5176.100033.2.11.yI0KiV  
-好看https://www.lulinux.com/archives/2589
+美化：https://www.lulinux.com/archives/2589
 
   
 ## Golang
