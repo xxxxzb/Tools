@@ -20,4 +20,8 @@ springboot 文件上传 ：↑↑↑↑
 %s -> string  
 %d-> 十进制整数
 
-
+## range
+修改ranger打开文本用vim：
+```
+如果您使用的是BASH,请将以下内容添加到.bashrc中： VISUAL=vim; export VISUAL EDITOR=vim; export EDITOR
+```
